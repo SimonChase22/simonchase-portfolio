@@ -1,0 +1,5 @@
+This project was a proof-of-concept smart home application designed to employ concepts of polymorphism, abstraction and inheritance while ensuring no memory leaks
+
+My application also went above and beyond to employ a more fluid user input, allowing for reading of keystrokes for user navigation as opposed to text input
+
+ACHIEVED GRADE 94/100 (1st)
