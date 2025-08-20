@@ -1,9 +1,0 @@
-This notes page acts as descriptors for the Node types which are defined by the 'data' variable in all nodes
-
-0 - Base Node Class
-1 - Devices Node, contains a vector of device classes
-2 - Device Information Node, a single device class pointer, dynamically updated to show the device that has been selected
-3 - Add Device Node, the start of the add device branch, this one displays the current device types that a user can add
-
-5 - Room Manager Node, sits as a child of the base root node, handles displaying rooms and displaying devices by room
-6 - Search Node, sits as a child of the base root node, handles searching for a device by parsing devices node for an entered substring
